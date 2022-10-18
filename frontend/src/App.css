@@ -1,0 +1,26 @@
+.space-between {
+  display: flex;
+  justify-content: space-between;
+}
+.home {
+  margin: 1%;
+}
+.flex-end {
+  display: flex;
+  justify-content: flex-end;
+}
+.title {
+  background-color: #E8E8E8;
+  border:1px solid #DBDBDB;
+  padding: 3px;
+  margin-bottom: 5px;
+}
+
+.items-center {
+  display: flex;
+  align-items: center;
+}
+
+.mb-5 {
+  margin-bottom: 5px;
+}
